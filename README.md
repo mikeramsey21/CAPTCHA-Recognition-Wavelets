@@ -5,4 +5,5 @@ Use the discrete wavelet transform to break CAPTCHAs. This my own implementation
 The paper is also available in the References folder of the repository. Plese read the User_Guide.pdf for implimentation of the codes. 
 
 Date Created: 4/1/15
+
 Last Edited: 5/9/15
